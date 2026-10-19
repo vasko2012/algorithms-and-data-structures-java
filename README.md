@@ -11,6 +11,7 @@ Solutions to classic data-structure and algorithm problems, written in Java. Eac
 | Graphs | [Course prerequisites](graphs/course-prerequisites) | Topological sort with Kahn's algorithm, plus cycle detection |
 | Hashing | [Pharmacy stock lookup](hashing/pharmacy) | Hand-written hash table with separate chaining, custom `hashCode`/`equals` |
 | Stacks | [Postfix evaluation](stacks/postfix-evaluation) | Evaluate Reverse Polish notation with a stack |
+| Stacks | [XML tag validator](stacks/xml-validator) | Nested-tag matching, the balanced-parentheses idea with names |
 
 More problems are on the way: graphs (BFS, Dijkstra, topological sort), hashing, stacks, linked lists and sorting.
 
