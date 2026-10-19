@@ -10,6 +10,7 @@ Solutions to classic data-structure and algorithm problems, written in Java. Eac
 | Graphs | [Shortest round trip](graphs/shortest-round-trip) | Dijkstra with a priority queue, run from both ends of a directed graph |
 | Graphs | [Course prerequisites](graphs/course-prerequisites) | Topological sort with Kahn's algorithm, plus cycle detection |
 | Hashing | [Pharmacy stock lookup](hashing/pharmacy) | Hand-written hash table with separate chaining, custom `hashCode`/`equals` |
+| Stacks | [Postfix evaluation](stacks/postfix-evaluation) | Evaluate Reverse Polish notation with a stack |
 
 More problems are on the way: graphs (BFS, Dijkstra, topological sort), hashing, stacks, linked lists and sorting.
 
