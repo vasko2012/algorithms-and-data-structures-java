@@ -5,6 +5,7 @@ Solutions to classic data-structure and algorithm problems, written in Java. Eac
 | Topic | Problem | Key idea |
 |---|---|---|
 | Trees | [Windows Explorer](trees/windows-explorer) | General tree (first-child / next-sibling), sorted insert, pre-order print |
+| Graphs | [Graph from commands](graphs/graph-commands) | Undirected graph as an adjacency list (`TreeMap` of `TreeSet`s) |
 
 More problems are on the way: graphs (BFS, Dijkstra, topological sort), hashing, stacks, linked lists and sorting.
 
