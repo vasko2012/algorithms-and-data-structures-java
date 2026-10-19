@@ -1,0 +1,6 @@
+2
+2
+0 Skopje 1 Bitola 129
+1 Bitola 0 Skopje 135
+Skopje
+Bitola
