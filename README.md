@@ -14,8 +14,7 @@ Solutions to classic data-structure and algorithm problems, written in Java. Eac
 | Stacks | [XML tag validator](stacks/xml-validator) | Nested-tag matching, the balanced-parentheses idea with names |
 | Recursion | [Arithmetic expression](recursion/arithmetic-expression) | Divide and conquer on a recursive grammar, finding the top-level operator |
 | Linked lists | [Reverse a sub-interval](linked-lists/reverse-sublist) | In-place reversal of part of a doubly linked list by re-linking nodes |
-
-More problems are on the way: graphs (BFS, Dijkstra, topological sort), hashing, stacks, linked lists and sorting.
+| Sorting | [Shaker sort](sorting/shaker-sort) | Two-way bubble sort, shrinking the unsorted window from both ends |
 
 ## Running a solution
 
